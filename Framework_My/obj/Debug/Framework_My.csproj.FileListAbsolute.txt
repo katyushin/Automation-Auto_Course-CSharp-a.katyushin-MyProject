@@ -1,0 +1,7 @@
+C:\TestBuyincoins_C#(webdriver)\TestBuyincoins\Framework_My\obj\Debug\Framework_My.csprojResolveAssemblyReference.cache
+C:\TestBuyincoins_C#(webdriver)\TestBuyincoins\Framework_My\obj\Debug\ActivityDesigner1.baml
+C:\TestBuyincoins_C#(webdriver)\TestBuyincoins\Framework_My\obj\Debug\ActivityDesigner1.g.cs
+C:\TestBuyincoins_C#(webdriver)\TestBuyincoins\Framework_My\obj\Debug\Framework_My_MarkupCompile.cache
+C:\TestBuyincoins_C#(webdriver)\TestBuyincoins\Framework_My\obj\Debug\Framework_My.g.resources
+C:\TestBuyincoins_C#(webdriver)\TestBuyincoins\Framework_My\obj\Debug\Framework_My.Properties.Resources.resources
+C:\TestBuyincoins_C#(webdriver)\TestBuyincoins\Framework_My\obj\Debug\Framework_My.csproj.GenerateResource.Cache
